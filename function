@@ -1,0 +1,19 @@
+priuning
+clf
+hue
+plot_decision_regions
+fit
+transform
+plot_tree
+KNeighborsClassifier
+DecisionTreeRegressor
+criterion
+splitter
+max_depth
+param_grid
+param_distributions
+n_iter
+GridSearchCV
+RandomizedSearchCV
+# cross-validation - k-fold , startified k-fold , leave one out , leave p out 
+plt.xticks()
